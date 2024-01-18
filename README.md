@@ -24,7 +24,7 @@ The "Coaching with Youssef" website is designed to offer coaching services, shar
 - Information about Youssef and coaching services.
 - Details about coaching courses with subscription options.
 - Contact form to reach out for coaching services.
-- Sign-up form for exclusive content.
+- Sign-up and Sign-in forms for exclusive content.
 
 ## Usage
 
@@ -54,7 +54,7 @@ If you have any questions or would like to start your coaching journey with Yous
 
 ## Sign Up
 
-Sign up for exclusive content by filling out the form in the "Sign Up for Exclusive Content" section. You will be notified with further details.
+Sign up for exclusive content by filling out the form in the "Sign Up and Sign In" section on our [website](index.html). You will be notified with further details.
 
 ## Contributing
 
